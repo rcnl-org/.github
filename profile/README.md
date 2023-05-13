@@ -1,4 +1,20 @@
-## Hi there 👋
+## Neuromuscluskeletal Modeling (NMSM) Pipeline
+<div float="left">
+  <a href="https://github.com/rcnl-org/nmsm-core#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rcnl-org&repo=nmsm-core&show_owner=true&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only" alt="nmsm-core: Neuromusculoskeletal Modeling Pipeline"></a>
+  <a href="https://github.com/rcnl-org/nmsm-core#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rcnl-org&repo=nmsm-core&show_owner=true&v=3#gh-light-mode-only" alt="nmsm-core: Neuromusculoskeletal Modeling Pipeline"></a>
+&nbsp;
+  <a href="https://github.com/rcnl-org/nmsm-tutorial#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rcnl-org&repo=nmsm-tutorial&show_owner=true&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only" alt="nmsm-tutorial: Tutorial for the NMSM Pipeline"></a>
+  <a href="https://github.com/rcnl-org/nmsm-tutorial#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rcnl-org&repo=nmsm-tutorial&show_owner=true&v=3#gh-light-mode-only" alt="nmsm-tutorial: Tutorial for the NMSM Pipeline"></a>
+&nbsp;
+</div>
+<div float="left">
+  <a href="https://github.com/rcnl-org/nmsm-test#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rcnl-org&repo=nmsm-test&show_owner=true&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only" alt="nmsm-test: NMSM Pipeline Test Suite"></a>
+  <a href="https://github.com/rcnl-org/nmsm-test#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rcnl-org&repo=nmsm-test&show_owner=true&v=3#gh-light-mode-only" alt="nmsm-test: NMSM Pipeline Test Suite"></a>
+&nbsp;
+  <a href="https://github.com/rcnl-org/nmsm-examples#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rcnl-org&repo=nmsm-examples&show_owner=true&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only" alt="nmsm-examples: Examples for the NMSM Pipeline"></a>
+  <a href="https://github.com/rcnl-org/nmsm-examples#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rcnl-org&repo=nmsm-examples&show_owner=true&v=3#gh-light-mode-only" alt="nmsm-examples: Examples for the NMSM Pipeline"></a>
+&nbsp;
+</div>
 
 <!--
 

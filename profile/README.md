@@ -16,6 +16,17 @@
 &nbsp;
 </div>
 
+## Other Useful Links
+
+- [NMSM Pipeline Documentation and Website](https://nmsm.rice.edu)
+- [RCNL Publications](https://rcnl.rice.edu/publications.html)
+- [GPOPS-II](http://gpops2.com/)
+
+## Feedback, Feature Requests, and Contribution
+
+Our goal is to push neuromusculoskeletal modeling forward and part of that is designing tools that researchers need. If you have any issues using the NMSM Pipeline or have feedback, feature requests, or would like to help contribute, [please open an issue in nmsm-core!](https://github.com/rcnl-org/nmsm-core/issues)
+
+
 <!--
 
 **Here are some ideas to get you started:**

@@ -24,7 +24,7 @@
 
 ## Feedback, Feature Requests, and Contribution
 
-Our goal is to push neuromusculoskeletal modeling forward and part of that is designing tools that researchers need. If you have any issues using the NMSM Pipeline or have feedback, feature requests, or would like to help contribute, [please open an issue in nmsm-core!](https://github.com/rcnl-org/nmsm-core/issues)
+Our goal is to push neuromusculoskeletal modeling forward. A big part of that goal is designing and maintaining tools that researchers need. If you have any issues using the NMSM Pipeline or have feedback, feature requests, or would like to help contribute, [please open an issue in nmsm-core!](https://github.com/rcnl-org/nmsm-core/issues)
 
 
 <!--
